@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+python-docx
+python-dateutil
+numpy
+openpyxl
+xlsxwriter
